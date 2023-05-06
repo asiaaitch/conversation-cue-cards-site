@@ -8,19 +8,19 @@ Conversation Cue Cards (C3 For Me) is a student-centered, collaborative solution
 
 **Homepage:**
 
-![Homepage](https://raw.githubusercontent.com/asiaaitch/cue-cards/bf0882c23cca05b91d2c2dcb2bca9021fb3a2801/images/cue-cards1.png)
-![Homepage](https://raw.githubusercontent.com/asiaaitch/cue-cards/bf0882c23cca05b91d2c2dcb2bca9021fb3a2801/images/cue-cards2.png)
+![Homepage](https://raw.githubusercontent.com/asiaaitch/conversation-cue-cards-site/e739012194d37b07cba76c667204f7cc8b370c2b/images/images/cue-cards1.png)
+![Homepage](https://raw.githubusercontent.com/asiaaitch/conversation-cue-cards-site/e739012194d37b07cba76c667204f7cc8b370c2b/images/images/cue-cards2.png)
 
 **About Page:**
 
-![About Page](https://raw.githubusercontent.com/asiaaitch/cue-cards/bf0882c23cca05b91d2c2dcb2bca9021fb3a2801/images/cue-cards3.png)
-![About Page](https://raw.githubusercontent.com/asiaaitch/cue-cards/bf0882c23cca05b91d2c2dcb2bca9021fb3a2801/images/cue-cards4.png)
+![About Page](https://raw.githubusercontent.com/asiaaitch/conversation-cue-cards-site/e739012194d37b07cba76c667204f7cc8b370c2b/images/images/cue-cards3.png)
+![About Page](https://raw.githubusercontent.com/asiaaitch/conversation-cue-cards-site/e739012194d37b07cba76c667204f7cc8b370c2b/images/images/cue-cards4.png)
 
 **Contact Page:**
 
-![Contact Page](https://raw.githubusercontent.com/asiaaitch/cue-cards/bf0882c23cca05b91d2c2dcb2bca9021fb3a2801/images/cue-cards5.png)
-![Contact Page](https://raw.githubusercontent.com/asiaaitch/cue-cards/5642126b7b44b0d90a9304bbc88d14b5e05a85c8/images/cue-cards6.png)
-![Contact Page](https://raw.githubusercontent.com/asiaaitch/cue-cards/5642126b7b44b0d90a9304bbc88d14b5e05a85c8/images/cue-cards7.png)
+![Contact Page](https://raw.githubusercontent.com/asiaaitch/conversation-cue-cards-site/e739012194d37b07cba76c667204f7cc8b370c2b/images/images/cue-cards5.png)
+![Contact Page](https://raw.githubusercontent.com/asiaaitch/conversation-cue-cards-site/e739012194d37b07cba76c667204f7cc8b370c2b/images/images/cue-cards6.png)
+![Contact Page](https://raw.githubusercontent.com/asiaaitch/conversation-cue-cards-site/e739012194d37b07cba76c667204f7cc8b370c2b/images/images/cue-cards7.png)
 
 ## How It's Made:
 

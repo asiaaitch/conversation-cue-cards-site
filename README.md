@@ -2,7 +2,7 @@
 
 Conversation Cue Cards (C3 For Me) is a student-centered, collaborative solution for the ineffective and disconnected traditional process of gathering student input during the transition planning process.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://conversation-cue-cards.netlify.app/
 
 ## Screenshots:
 

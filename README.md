@@ -32,4 +32,6 @@ I enjoyed using Tailwind CSS and DaisyUI to create the beautiful UI components o
 I spent so many hours trying to figure out why my code would not deploy to Netlify, just to find out that I only needed to upload my dist folder to Netlify. This was the single most frustrating, yet rewarding part of building this website. Frustrating because hours were spent on trying so many different strategies and techniques and researching solutions. Rewarding because I was able to solve the problem to deploying my website and feel the complete satisfaction of allowing users to benefit from Conversation Cue Cards. I can also turn my brain off from trying to solve the problem. 
 
 **Optimizations:** 
+Update: All of the links lead to their proper destinations and display the necessary content on each page.
+
 I still have building to do, but I am proud of the product that I have, thus far. I would like to make sure that all links and pages lead to their appropraite destinations and display the necessary content on each page. 
